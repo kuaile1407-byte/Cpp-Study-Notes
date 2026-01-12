@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.ext != "base"
+    - file.inFolder("笔记")
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.ctime
+    columnSize:
+      file.name: 422
