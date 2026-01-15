@@ -2,6 +2,8 @@ filters:
   and:
     - file.ext != "base"
     - file.inFolder("笔记")
+formulas:
+  未命名: ""
 views:
   - type: table
     name: 表格
