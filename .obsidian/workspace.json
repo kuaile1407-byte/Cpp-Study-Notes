@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/运算符大全.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "运算符大全"
+              "title": "README"
             }
           }
         ]
@@ -183,11 +183,11 @@
   },
   "active": "658f8ec48a4a2b09",
   "lastOpenFiles": [
-    "笔记/if-else完全剖析.md",
     "笔记/运算符大全.md",
+    "笔记/if-else完全剖析.md",
     "从0学习C++目录.base",
     "笔记/基本数据类型.md",
-    "README.md.md",
+    "README.md",
     "笔记/变量与常量.md",
     "~",
     "相关书籍",
