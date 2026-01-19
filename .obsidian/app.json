@@ -1,3 +1,10 @@
 {
-  "attachmentFolderPath": "图片"
+  "attachmentFolderPath": "图片",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
