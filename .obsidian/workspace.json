@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/switch-case.md",
+                "file": "笔记/for循环刨析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "switch-case"
+              "title": "for循环刨析"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记/for循环刨析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "for循环刨析 的反向链接列表"
             }
           },
           {
@@ -154,20 +155,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "笔记/for循环刨析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "for循环刨析 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 674.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +185,10 @@
   },
   "active": "97c9119fa8b9aad2",
   "lastOpenFiles": [
-    "LICENSE",
     "图片/1.jpeg",
+    "笔记/for循环刨析.md",
+    "笔记/switch-case.md",
+    "LICENSE",
     "图片/7.jpeg",
     "图片/6.jpeg",
     "图片/5.jpeg",
@@ -195,7 +199,6 @@
     "笔记/状态模式替换switch.md",
     "笔记/多态代替Switch.md",
     "笔记/运算符大全.md",
-    "笔记/switch-case.md",
     "笔记/变量与常量.md",
     "笔记/基本数据类型.md",
     "README.md",
